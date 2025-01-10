@@ -1,6 +1,7 @@
 # Location REST API
 
 ## Overview
+
 The Location API is a RESTful web service designed to provide geographical information about cities, countries, and continents. It allows clients to retrieve data that can be used to build profiles, generate travel statistics, or create location-based applications. This API is an integral part of **Wonderboot**, enabling users to explore, manage, and analyze travel-related data.
 
 ---
@@ -157,7 +158,5 @@ Response:
 
 ---
 
-## Contact
+ **This API has been developed by Campus MVP and is their creation.**
 
-
-For further inquiries or support, contact [Marcos Fdez. Avendaño] at [marcosfavendano@gmail.com].
